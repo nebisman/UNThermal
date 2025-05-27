@@ -1,0 +1,7 @@
+iottalk-paho-mqtt
+control
+numpy
+matplotlib
+scipy
+ipympl
+mplcursors

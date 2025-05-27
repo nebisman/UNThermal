@@ -1,0 +1,5 @@
+docs
+experiment_files
+notebooks_lab_2024_2
+unthermal
+venv
